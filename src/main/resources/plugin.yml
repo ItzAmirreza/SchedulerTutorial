@@ -1,0 +1,11 @@
+name: TutorialScheduler
+version: ${project.version}
+main: me.minehack.tutorialscheduler.TutorialScheduler
+api-version: 1.16
+authors: [ Dead_Light ]
+description: scheduling in minehack
+commands:
+  startalert:
+    description: starting
+    aliases:
+      - babaeetracker
